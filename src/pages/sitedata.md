@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Dr. James Kleiber
+jobTitle: Clinical Director
+location: Basingstoke, UK
 profileImage:
-  src: ""
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/clinical-director-dr.-james-kleiber-headshot.jpg
+  alt: Dr. James Kleiber headshot
+siteUrl: https://www.aboutdrjameskleiber.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
-    url: https://www.facebook.com
+    url: https://www.facebook.com/p/Dr-James-kleiber-100075948577326/
     label: Visit
     show: true
   linkedin:
-    url: https://www.linkedin.com
+    url: https://uk.linkedin.com/in/james-kleiber-44155545
     label: Visit
     show: true
   pinterest:
