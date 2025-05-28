@@ -9,6 +9,6 @@ date: 2025-05-28T16:17:38.148Z
 teaser: This is the gallery page of implantologist and restorative dental
   professional James Kleiber
 featuredImage:
-  src: /img/james-kleiber-presenting.jpg
+  src: /img/pic-executive-banner-gallery-01.webp
   alt: James Kleiber
 ---
