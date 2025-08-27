@@ -1,8 +1,8 @@
 ---
 templateKey: site-data
 published: true
-name: Dr. James Kleiber
-jobTitle: Clinical Director
+name: James Kleiber
+jobTitle: Clinical Director and Dentisit
 location: Basingstoke, UK
 profileImage:
   src: /img/clinical-director-dr.-james-kleiber-headshot.jpg
