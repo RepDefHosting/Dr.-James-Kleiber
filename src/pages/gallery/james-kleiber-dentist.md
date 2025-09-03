@@ -10,5 +10,5 @@ teaser: Dr James Kleiber - Implant dentist and restorative dental professional
   in Basingstoke, Hampshire, UK,
 featuredImage:
   alt: James Kleiber Dentist
-  src: /img/james-kleiber-friend-resataurant.jpeg
+  src: /img/james-kleiber-field.jpeg
 ---
